@@ -164,7 +164,9 @@ footer a{
 .testimonials{
   background-image:url("../images/testimonial_bg.jpg");
   background-repeat:no-repeat;
-  background-size:100% 100%;
+  background-size:cover;
+  background-position:center center;
+  width:100%;
   color:#606161
 }
 blockquote{
